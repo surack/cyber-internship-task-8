@@ -15,7 +15,7 @@ Set up and use a free VPN client to understand how VPNs protect internet privacy
 5. Tested encrypted traffic by browsing several sites.
 6. Observed speed differences while connected/disconnected.
 7. Researched VPN encryption protocols and privacy features.
-8. Summarized VPN benefits and limitations in `experience.txt`.
+8. Summarized VPN benefits and limitations in `Task_8_analysis.txt`.
 
 ## Findings
 - VPN connection masked my real IP and encrypted my internet traffic.
