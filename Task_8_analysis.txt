@@ -1,0 +1,32 @@
+Task: Working with VPNs
+
+Date: 15 August 2025
+
+Step 1: I chose ProtonVPN (free) as my VPN provider and registered using my email.
+
+Step 2: I downloaded the ProtonVPN app for Windows and installed it following the setup instructions.
+
+Step 3: After launching ProtonVPN, I logged in and selected the recommended “Fastest” server, which was located in my country.
+
+Step 4: Upon clicking “Connect,” the status changed to “Connected” and a green indicator appeared.
+
+Step 5: I visited whatismyipaddress.com before and after connecting to the VPN. My real IP address was replaced by the VPN’s IP. This showed my current location as the server’s location, not my own.
+
+Step 6: I browsed a few sites and all loaded without issues. I noticed a slight decrease in speed, but traffic was encrypted and my IP was hidden.
+
+Step 7: I disconnected from ProtonVPN and revisited whatismyipaddress.com—my original IP returned.
+
+Step 8: I researched: VPNs use encryption protocols (like OpenVPN) to protect user data. They can prevent Wi-Fi snooping and unblock some geo-restricted content, but don’t guarantee full anonymity.
+
+Why I did this:
+- To see in real-time how VPNs alter my apparent online identity and protect my internet traffic.
+- To experience the connection process and any impact on speed.
+
+Observations:
+- Connection was smooth and the app interface was simple.
+- Changing IP/location was instant.
+- Browsing speed was a bit lower when connected.
+- VPNs offer privacy but are not foolproof (VPN providers could see traffic, and some websites detect/block VPNs).
+
+Overall, this activity helped solidify my understanding of VPN operation, real-world use, and realistic expectations from “free” privacy tools.
+
